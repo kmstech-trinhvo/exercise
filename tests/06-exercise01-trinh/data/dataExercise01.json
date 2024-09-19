@@ -1,0 +1,12 @@
+[
+    {
+        "loginPageUrl": "https://www.saucedemo.com/",
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "products": ["Sauce Labs Backpack", "Sauce Labs Bike Light"],
+        "productPrices": [29.99, 9.99],
+        "firstName": "John",
+        "lastName": "Doe",
+        "zip": "12345"
+    }
+]
