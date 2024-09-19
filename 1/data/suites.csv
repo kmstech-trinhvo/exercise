@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 19 05:54:35 GMT 2024","Thu Sep 19 05:54:37 GMT 2024","1418","chromium","06-exercise01-trinh/test/excercise.spec.ts","@exercise_fixture @smoke @regression","","","Complete purchase flow with products: Sauce Labs Backpack, Sauce Labs Bike Light",""
